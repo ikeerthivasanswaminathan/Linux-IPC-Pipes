@@ -100,11 +100,11 @@ exit(EXIT_SUCCESS);
 
 ## OUTPUT
 
-## C Program that illustrate communication between two process using unnamed pipes using Linux API system calls
+C Program that illustrate communication between two process using unnamed pipes using Linux API system calls
 
 ![exp3 output 1](https://github.com/ikeerthivasanswaminathan/Linux-IPC-Pipes/assets/148937372/25b4d95d-6fea-4a31-8d9d-4c286fae2aae)
 
-## C Program that illustrate communication between two process using named pipes using Linux API system calls
+C Program that illustrate communication between two process using named pipes using Linux API system calls
 
 ![exp3 output 2](https://github.com/ikeerthivasanswaminathan/Linux-IPC-Pipes/assets/148937372/8b86422f-0539-45ab-ae63-9de86b418245)
 
